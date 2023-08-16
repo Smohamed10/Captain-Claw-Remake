@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Captain Claw, Configuration: Debug Any CPU ------
+1>E:\MSA\MultiMedia\LargeGame\Captain Claw\Form1.cs(70,192,70,209): warning CS0414: The field 'Form1.countofficerdeath' is assigned but its value is never used
+1>  Captain Claw -> E:\MSA\MultiMedia\LargeGame\Captain Claw\bin\Debug\Captain Claw.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
