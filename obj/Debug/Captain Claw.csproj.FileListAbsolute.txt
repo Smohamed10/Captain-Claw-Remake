@@ -1,0 +1,32 @@
+E:\MSA\MultiMedia\LargeGame\Captain Claw\bin\Debug\Captain Claw.exe.config
+E:\MSA\MultiMedia\LargeGame\Captain Claw\bin\Debug\Captain Claw.exe
+E:\MSA\MultiMedia\LargeGame\Captain Claw\bin\Debug\Captain Claw.pdb
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.AssemblyReference.cache
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain_Claw.Form1.resources
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain_Claw.Properties.Resources.resources
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.GenerateResource.cache
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.CoreCompileInputs.cache
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain Claw.exe
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain Claw.pdb
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Interop.MediaPlayer.dll
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Interop.WMLSS.dll
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Interop.WMPDXMLib.dll
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Interop.WMPLib.dll
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Interop.WMPNSSCI.dll
+E:\MSA\MultiMedia\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.ResolveComReference.cache
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\bin\Debug\Captain Claw.exe.config
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\bin\Debug\Captain Claw.exe
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\bin\Debug\Captain Claw.pdb
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.AssemblyReference.cache
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Interop.MediaPlayer.dll
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Interop.WMLSS.dll
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Interop.WMPDXMLib.dll
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Interop.WMPLib.dll
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Interop.WMPNSSCI.dll
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.ResolveComReference.cache
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain_Claw.Form1.resources
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain_Claw.Properties.Resources.resources
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.GenerateResource.cache
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain Claw.csproj.CoreCompileInputs.cache
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain Claw.exe
+E:\MSA\MultiMedia\Large Game Without Setup\LargeGame\Captain Claw\obj\Debug\Captain Claw.pdb
